@@ -112,8 +112,8 @@ else:
     print("No solution found.")
 ```
 
+### OUTPUT:
+<img width="213" height="79" alt="image" src="https://github.com/user-attachments/assets/45ff3da9-17f3-4367-9016-eec538a34f72" />
 <hr>
 <h2>Result:</h2>
-<img width="213" height="79" alt="image" src="https://github.com/user-attachments/assets/45ff3da9-17f3-4367-9016-eec538a34f72" />
-
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
